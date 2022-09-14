@@ -1,0 +1,14 @@
+name: en605645
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - jupyter
+  - jupyterlab
+  - ipython
+  - ipykernel
+  - networkx
